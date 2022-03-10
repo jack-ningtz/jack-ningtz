@@ -1,7 +1,7 @@
 ### Hello, there 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 - 👋 I’m Jack Ning.
 - 👀 I’m interested in reading and coding.
-- 🌱 I’m currently learning vue.
+- 🌱 I’m currently learning complier.
 - 💞️ So, Actually, I’m a fake coder.
 - 📫 I only can Ctrl C and Ctrl V , It's so magic !!
 
